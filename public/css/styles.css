@@ -1,0 +1,17 @@
+/* Fuentes, títulos y textos */
+body{font-family: 'Roboto', sans-serif; color: #8c95a2;}
+h1{color: #025283; font-weight: bold; margin: 1rem 0 2rem 0;}
+h6{font-size: 1.1rem; margin-bottom: 1rem;}
+.text-dark-grey{color: #949fb2;}
+a{color: #8c95a2;}
+a:hover{color: #025283;}
+/* Background */
+.background-blue{background-color: #025283; color: #dddddd;}
+/* footer */
+footer dl dd{color: #949fb2;}
+footer ul li{padding: 0.2rem; border-bottom: 1px solid rgba(148,159,178,0.15);}
+footer ul li ul li:last-child{padding: 0; border-bottom: none;}
+footer ul li a{color: #dddddd;}
+footer ul li a:hover{color: #949fb2; text-decoration: none}
+/* Transparencia */
+/* .btn-link{color: #025283;} */

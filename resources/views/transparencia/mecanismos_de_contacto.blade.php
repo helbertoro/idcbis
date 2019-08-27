@@ -18,7 +18,7 @@
 </div>
 <div class="row">
     
-    <div class="col">
+    <div class="col mb-5">
         <div class="accordion" id="accordionExample">
             <div class="card">
                 <div class="card-header" id="headingOne">
