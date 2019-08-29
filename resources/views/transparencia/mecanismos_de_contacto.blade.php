@@ -38,6 +38,12 @@
                             <dd>(57+1) 364 9620</dd>
                             <dt>Correo electrónico:</dt>
                             <dd>contacto@idcbis.org.co</dd>
+                            <dt>Solicitudes, peticiones, quejas, reclamos y denuncias:</dt>
+                            <dd>
+                                <a href="https://bogota.gov.co/sdqs/" target="_blank">https://bogota.gov.co/sdqs/</a>
+                            </dd>
+
+
                         </dl>
                     </div>
                 </div>
@@ -98,15 +104,15 @@
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                     <div class="card-body">
-                        <ul class="list-unstyled">
-                            <li></li>
-                                <a href="">
-                                    <i class="fas fa-file-pdf fa-lg"></i> Políticas de seguridad de la información
+                        <ul class="list-unstyled pl-2">
+                            <li>
+                                <a href="/documentos/TI/politica_tratamiento_de_datos_v2.pdf" target="_blank">
+                                    <i class="fas fa-file-pdf fa-lg mr-2"></i> Política tratamiento de datos
                                 </a>
                             </li>
                             <li>
-                                <a href="">
-                                    <i class="fas fa-file-pdf fa-lg"></i> Protección de datos personales
+                                <a href="/documentos/TI/TI-006_politica_seguridad_de_la_informacion_v1.pdf" target="_blank">
+                                    <i class="fas fa-file-pdf fa-lg mr-2"></i> Política seguridad de la información
                                 </a>
                             </li>
                         </ul>

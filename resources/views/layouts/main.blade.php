@@ -64,7 +64,7 @@
                                 <dt>Email:</dt>
                                 <dd>contacto@idcbis.org.co</dd>
                                 <dt>Notificaciones judiciales</dt>
-                                <dd>contacto@idcbis.org.co</dd>
+                                <dd>idcbis@idcbis.org.co</dd>
                             </dl>
                     </div>
                     <div class="col-12 col-md-3">

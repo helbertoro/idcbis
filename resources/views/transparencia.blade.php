@@ -105,7 +105,7 @@
             </div>
         </div>
         
-        <div class="col-4 mb-4">
+        <!-- <div class="col-4 mb-4">
             <div class="card">
                 <a href="{!! route('tramitesServicios') !!}">
                     <img src="{!! asset('img/categorias/9.jpg') !!}" class="card-img-top" alt="transparencia - trámites y servicios">
@@ -114,9 +114,9 @@
                     <a href="">Ver más</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         
-        <div class="col-4 mb-4">
+        <!-- <div class="col-4 mb-4">
             <div class="card">
                 <a href="{!! route('instrumentosGestion') !!}">
                     <img src="{!! asset('img/categorias/10.jpg') !!}" class="card-img-top" alt="transparencia - instumentos de gestión">
@@ -125,9 +125,9 @@
                     <a href="">Ver más</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         
-        <div class="col-4 mb-4">
+        <!-- <div class="col-4 mb-4">
             <div class="card">
                 <a href="{!! route('transparenciaPasiva') !!}">
                     <img src="{!! asset('img/categorias/11.jpg') !!}" class="card-img-top" alt="transparencia - transparencia pasiva">
@@ -136,7 +136,7 @@
                     <a href="">Ver más</a>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div> <!-- row -->
 @endsection
